@@ -1,4 +1,4 @@
-### Hi there, I'm Ashwani Garg - aka [devprmeier][website] 👋
+### Hi there, I'm Ashwani Garg - aka [devprmeier][website](http://devpremier.com) 👋
 
 ## I'm a Husband, Father, Developer, and Teacher!
 - 🔭 I’m currently working on a [CRM SaaS][website]!
