@@ -24,6 +24,6 @@
 
 ---
 
-<img align="left" alt="Ashwani's Github Stats" src="https://github-readme-stats.vercel.app/api?username=akgarg007&show_icons=true&hide_border=true" />
+<img align="left" alt="Ashwani's Github Stats" src="https://github-readme-stats.vercel.app/api?username=gargashwani&show_icons=true&hide_border=true" />
 
 
