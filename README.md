@@ -1,7 +1,7 @@
 ### Hi there, I'm Ashwani Garg 👋
 
 ## I'm a Husband, Father, Developer, and Teacher!
-- 🔭 I’m currently working on a [CRM SaaS](https://devpremier.com/demo/public)!
+- 🔭 I’m currently working on a [CRM SaaS]
 - 🌱 I’m currently learning and doing Business and Advance Python!
 - 👯 I’m looking to collaborate with other resourceful creators. (You can mail me.)
 - 🥅 2020 Goals: Contribute more to Open Source projects
@@ -55,7 +55,7 @@
 
 <img align="left" alt="Ashwani's Github Stats" src="https://github-readme-stats.vercel.app/api?username=akgarg007&show_icons=true&hide_border=true" />
 
-[website]: https://devpremier.com
+
 [twitter]: https://twitter.com/devpremier
 [youtube]: https://www.youtube.com/c/devpremier
 [instagram]: https://www.instagram.com/devpremier
