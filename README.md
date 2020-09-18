@@ -1,8 +1,7 @@
 ### Hi there, I'm Ashwani Garg 👋
 
-## I'm a Husband, Father, Developer, and Teacher!
+## I'm a Laravel Developer
 - 🔭 I’m currently working on a [CRM SaaS]
-- 🌱 I’m currently learning and doing Business and Advance Python!
 - 👯 I’m looking to collaborate with other resourceful creators. (You can mail me.)
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I just love to code and make some really neat and clean application to help, grow mankind. 
