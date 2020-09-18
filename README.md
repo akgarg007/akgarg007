@@ -56,8 +56,3 @@
 <img align="left" alt="Ashwani's Github Stats" src="https://github-readme-stats.vercel.app/api?username=akgarg007&show_icons=true&hide_border=true" />
 
 
-[twitter]: https://twitter.com/devpremier
-[youtube]: https://www.youtube.com/c/devpremier
-[instagram]: https://www.instagram.com/devpremier
-[jsplaylist]: https://www.youtube.com/watch?v=W5eNEUnBs3c&list=PLoR9YdKb7wMdIUemTMkT7rSoeDCSqZKQs
-[webdevplaylist]: https://devpremier.com/blog
